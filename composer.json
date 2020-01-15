@@ -20,10 +20,10 @@
     }
   ],
   "require": {
-    "php": ">=5.5.9",
+    "php": ">=7.2",
     "ext-soap": "*",
-    "illuminate/console": "^5.1",
-    "illuminate/support": "^5.1",
+    "illuminate/console": "^6.0",
+    "illuminate/support": "^6.0",
     "googleads/googleads-php-lib": "^41.0"
   },
   "require-dev": {
